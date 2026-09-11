@@ -6,4 +6,4 @@
 
 ## Resumen: Realizaremos dos tiradas para obtener un total de 25 combinaciones. Como necesitamos que el número de combinaciones sea un múltiplo de 7, descartamos las últimas 4 combinaciones. En el caso de que se descarten combinaciones, un bucle genera otra nueva tirada. 
 
-## El código se puede probar en el archivo [randi7.m].
+## El código se puede probar en el archivo [`randi7.m`](./randi7.m).
