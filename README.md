@@ -1,5 +1,5 @@
 # numero-aleatorio-1-7
-# Solución a la tarea de generar un randi7 a partir de un randi5
+## Solución a la tarea de generar un randi7 a partir de un randi5.
 
 **Autora:** Eva Aibar Álvarez
 **Lenguaje:** MATLAB
