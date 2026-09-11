@@ -1,1 +1,1 @@
-# random_number_generator_1_7
+# random-number-generator-1-7
