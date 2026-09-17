@@ -11,4 +11,4 @@
 > [!NOTE]
 > **Optimización de código:** Código optimizado para trabajar directamente con la posición, prescindiendo de la estructura matricial de la versión anterior.
 
-## El código se puede probar en el archivo [`randi7.m`](./randi7.m).
+### El código se puede probar en el archivo [`randi7v2.m`](./randi7.m).
